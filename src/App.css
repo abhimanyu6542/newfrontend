@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.navhover{
+  border-radius: 15px;
+  text-shadow: aliceblue;
+  transition: 1s;
+}
+.navhover:hover{
+ color: rgb(188, 38, 38);
+ background-color: #282c34;
+}
+
+.navhoverlogin{
+  border-radius: 15px;
+  transition: 1s;
+}
+
+.navhoverlogin:hover {
+  background-color: darkblue;
+  text-shadow: aliceblue;
+  transition: 1s;
+  color: azure;
+}
+.navhoversignup{
+  border-radius: 15px;
+  transition: 1s;
+}
+.navhoversignup:hover{
+  background-color: green;
+  color: azure;
+}
+
+.inputText{
+  width: 450px;
+  height: 50px;
+}
+
+
